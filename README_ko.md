@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/screenshots/codemon-clean.png" width="380" alt="Codemon 스크린샷" />
+  <img src="docs/screenshots/hero.png" width="420" alt="Codemon — 코딩할수록 성장하는 생명체" />
 
   # Codemon
 
@@ -39,6 +39,10 @@
 
 ## 동작 원리
 
+<div align="center">
+  <img src="docs/screenshots/stats.png" width="400" alt="XP 추적, 연속 코딩, 일일 도전" />
+</div>
+
 1. **활동 감지** — 코딩 도구가 발생시키는 훅 이벤트를 실시간으로 감시합니다.
 2. **분류** — 각 이벤트는 활동 유형(코드 생성, 테스트 작성, 검색, 리팩토링 등)으로 분류됩니다.
 3. **XP 부여** — 활동 유형에 따라 기본 XP 10–60이 부여되며, 일일 보너스와 최대 2.0x의 연속 코딩 배율이 추가됩니다.
@@ -50,6 +54,10 @@
    - **Artist (예술가)** — UI, 스타일, 시각 요소 제작
    - **Sage (현자)** — 문서화, 설명, 지식 공유
 5. **진화** — 누적 XP가 기준값을 넘으면 Codemon이 진화하고, 해당 단계의 고유 생명체 변형이 무작위로 배정됩니다.
+
+<div align="center">
+  <img src="docs/screenshots/tendencies.png" width="400" alt="6가지 코딩 성향이 생명체를 형성합니다" />
+</div>
 
 ## 진화 단계
 
@@ -64,7 +72,13 @@
 
 모든 진화 단계에 걸쳐 **100종의 고유 생명체**가 존재하며, 진화 시 해당 단계의 변형이 무작위로 배정됩니다.
 
-## 업적
+## 업적 & 환생
+
+<div align="center">
+  <img src="docs/screenshots/activities.png" width="400" alt="업적, 과거 생, 환생" />
+</div>
+
+### 업적
 
 총 **30개의 업적**이 네 가지 카테고리로 구성됩니다:
 
@@ -72,6 +86,15 @@
 - **연속 코딩 보상** — 연속 코딩일 달성 보너스
 - **진화 마일스톤** — 생명체가 단계를 거쳐 성장할 때 해금
 - **특별** — 특수하거나 뛰어난 코딩 패턴에 숨겨진 업적
+
+### 환생 시스템
+
+생명체가 높은 레벨에 도달하면 **환생**을 선택할 수 있습니다:
+
+- 레벨과 XP가 초기화됩니다
+- 이후 XP 획득에 영구 프레스티지 보너스가 적용됩니다
+- 지난 생명체의 기록이 **과거 생** 로그에 남습니다
+- **Action** 탭에서 환생을 실행할 수 있습니다
 
 ## 일일 도전 & 이벤트
 
@@ -93,16 +116,11 @@
 
 장식은 **Decorate** 탭에서 장착할 수 있습니다. 업적으로 획득한 칭호는 **Action** 탭에서 표시할 수 있습니다.
 
-## 환생 시스템
-
-생명체가 높은 레벨에 도달하면 **환생**을 선택할 수 있습니다:
-
-- 레벨과 XP가 초기화됩니다
-- 이후 XP 획득에 영구 프레스티지 보너스가 적용됩니다
-- 지난 생명체의 기록이 **과거 생** 로그에 남습니다
-- **Action** 탭에서 환생을 실행할 수 있습니다
-
 ## 설정
+
+<div align="center">
+  <img src="docs/screenshots/settings.png" width="400" alt="설정 패널" />
+</div>
 
 | 설정 항목 | 설명 |
 |-----------|------|
@@ -134,6 +152,10 @@ Codemon은 [Sparkle](https://sparkle-project.org/)을 통해 업데이트를 자
 
 독점 소유권. 모든 권리 보유.
 
-## 크레딧
+---
 
-[Claude Code](https://claude.ai/code)로 제작 · [Ko-fi로 후원하기](https://ko-fi.com/codemon)
+<div align="center">
+
+[Ko-fi로 후원하기](https://ko-fi.com/codemon)
+
+</div>

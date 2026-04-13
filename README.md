@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/screenshots/codemon-clean.png" width="380" alt="Codemon screenshot" />
+  <img src="docs/screenshots/hero.png" width="420" alt="Codemon — your creature grows as you code" />
 
   # Codemon
 
@@ -39,6 +39,10 @@
 
 ## How It Works
 
+<div align="center">
+  <img src="docs/screenshots/stats.png" width="400" alt="XP tracking, streaks, and daily challenges" />
+</div>
+
 1. **Activity Detection** — Codemon monitors hook events fired by your coding tool in real time.
 2. **Classification** — Each event is classified into an activity type (code generation, test writing, search, refactor, etc.).
 3. **XP Award** — Base XP ranges from 10–60 depending on activity type, plus a daily bonus and a streak multiplier of up to 2.0x.
@@ -50,6 +54,10 @@
    - **Artist** — crafts UI, styles, and visual elements
    - **Sage** — documents, explains, and teaches
 5. **Evolution** — When your cumulative XP crosses a threshold, Codemon evolves and a unique creature variant is assigned for that stage.
+
+<div align="center">
+  <img src="docs/screenshots/tendencies.png" width="400" alt="6 coding tendencies shape your creature" />
+</div>
 
 ## Evolution Stages
 
@@ -64,7 +72,13 @@
 
 There are **100 unique creatures** spread across all evolution stages — the variant assigned at each evolution is drawn at random.
 
-## Achievements
+## Achievements & Rebirth
+
+<div align="center">
+  <img src="docs/screenshots/activities.png" width="400" alt="Achievements, past lives, and rebirth" />
+</div>
+
+### Achievements
 
 Codemon includes **30 achievements** across four categories:
 
@@ -72,6 +86,15 @@ Codemon includes **30 achievements** across four categories:
 - **Streak rewards** — bonuses for consecutive days of coding
 - **Evolution milestones** — unlocked as your creature advances through stages
 - **Special** — hidden achievements for unusual or exceptional coding patterns
+
+### Rebirth System
+
+Once your creature reaches a high level, you can trigger a **Rebirth**:
+
+- Level and XP reset to the beginning
+- A permanent prestige bonus is applied to future XP gains
+- Your past life is recorded in the **Past Lives** log
+- Access Rebirth from the **Action** tab
 
 ## Daily Challenges & Events
 
@@ -93,16 +116,11 @@ Collect **55 decorations** to customize your creature's environment. Decorations
 
 Equip decorations from the **Decorate** tab. Titles earned through achievements can be displayed from the **Action** tab.
 
-## Rebirth System
-
-Once your creature reaches a high level, you can trigger a **Rebirth**:
-
-- Level and XP reset to the beginning
-- A permanent prestige bonus is applied to future XP gains
-- Your past life is recorded in the **Past Lives** log
-- Access Rebirth from the **Action** tab
-
 ## Settings
+
+<div align="center">
+  <img src="docs/screenshots/settings.png" width="400" alt="Settings panel" />
+</div>
 
 | Setting | Description |
 |---------|-------------|
@@ -134,6 +152,10 @@ Codemon uses [Sparkle](https://sparkle-project.org/) for automatic update checks
 
 Proprietary. All rights reserved.
 
-## Credits
+---
 
-Made with [Claude Code](https://claude.ai/code) · [Support on Ko-fi](https://ko-fi.com/codemon)
+<div align="center">
+
+[Support on Ko-fi](https://ko-fi.com/codemon)
+
+</div>
