@@ -9,11 +9,11 @@
 
   <br/>
 
-  ### [⬇️ &nbsp; Download for macOS &nbsp; ⬇️](https://github.com/gtpgg1013/codemon/releases/latest)
+  [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000)](https://github.com/gtpgg1013/codemon/releases/latest)
 
-  [![Latest Release](https://img.shields.io/github/v/release/gtpgg1013/codemon?style=for-the-badge&label=Latest&color=success)](https://github.com/gtpgg1013/codemon/releases/latest)
-  ![macOS 14.0+](https://img.shields.io/badge/macOS-14.0%2B-black?style=for-the-badge&logo=apple)
-  [![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/gangkk)
+  [![Latest Release](https://img.shields.io/github/v/release/gtpgg1013/codemon?style=flat-square&label=latest&color=success)](https://github.com/gtpgg1013/codemon/releases/latest)
+  ![macOS 14.0+](https://img.shields.io/badge/macOS-14.0%2B-silver?style=flat-square&logo=apple)
+  [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/gangkk)
 
 </div>
 
