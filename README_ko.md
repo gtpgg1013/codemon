@@ -152,6 +152,10 @@
 
 Codemon은 [Sparkle](https://sparkle-project.org/)을 통해 업데이트를 자동으로 확인합니다. 새 버전이 출시되면 앱 내에서 알림을 받습니다.
 
+## 버그 제보 & 피드백
+
+버그를 발견하셨거나 기능을 제안하고 싶으시다면 [이슈를 올려주세요](https://github.com/gtpgg1013/codemon/issues/new) — 큰 도움이 됩니다!
+
 ## 라이선스
 
 독점 소유권. 모든 권리 보유.

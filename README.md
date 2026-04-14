@@ -153,6 +153,10 @@ Equip decorations from the **Decorate** tab. Titles earned through achievements 
 
 Codemon uses [Sparkle](https://sparkle-project.org/) for automatic update checks. You will be notified in-app when a new version is available.
 
+## Bug Reports & Feedback
+
+Found a bug? Want to suggest a feature? Please [open an issue](https://github.com/gtpgg1013/codemon/issues/new) — it really helps!
+
 ## License
 
 Proprietary. All rights reserved.
