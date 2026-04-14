@@ -7,9 +7,13 @@
 
   실제 코딩 활동으로 픽셀 생명체를 키우는 macOS 메뉴바 앱.
 
-  [![Download DMG](https://img.shields.io/badge/Download-DMG-blue?style=for-the-badge)](https://github.com/gtpgg1013/codemon/releases/latest)
+  <br/>
+
+  ### [⬇️ &nbsp; macOS용 다운로드 &nbsp; ⬇️](https://github.com/gtpgg1013/codemon/releases/latest)
+
+  [![Latest Release](https://img.shields.io/github/v/release/gtpgg1013/codemon?style=for-the-badge&label=Latest&color=success)](https://github.com/gtpgg1013/codemon/releases/latest)
   ![macOS 14.0+](https://img.shields.io/badge/macOS-14.0%2B-black?style=for-the-badge&logo=apple)
-  [![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/codemon)
+  [![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/gangkk)
 </div>
 
 ---
