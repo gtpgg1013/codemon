@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.net/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.net/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Codémon Updates</title>
     <link>https://github.com/gtpgg1013/codemon</link>
+    <language>en</language>
     <item>
-      <title>Codémon 1.0.2</title>
-      <pubDate>Wed, 15 Apr 2026 00:51:47 +0900</pubDate>
-      <sparkle:version>1.0.2</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Codémon 1.0.3</title>
+      <pubDate>Wed, 15 Apr 2026 01:11:37 +0900</pubDate>
+      <sparkle:version>1.0.3</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/gtpgg1013/codemon/releases/download/v1.0.2/Codemon-1.0.2.dmg"
-        length="6075319"
+        url="https://github.com/gtpgg1013/codemon/releases/download/v1.0.3/Codemon-1.0.3.dmg"
+        length="6075709"
         type="application/octet-stream"
-        sparkle:edSignature="hWJNGOce8X3U6PSF8dQkOOr4uPzTj7GtFit5NtdD7GKaO5HqDmEN0yLZJjvIOGp+CuW9JpaV3x6U4tMobf7ABg=="
+        sparkle:edSignature="QuKqBG3V5BBX3gj6r8D+rnes9EaBWOjSNLJl772o9LPNhPgLB0loIUfYtdgejwvKH/76EiCgwJrbeafx7OpZAA=="
       />
     </item>
   </channel>
