@@ -5,15 +5,15 @@
     <link>https://github.com/gtpgg1013/codemon</link>
     <item>
       <title>Codémon 1.0.1</title>
-      <pubDate>Wed, 15 Apr 2026 00:39:18 +0900</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:41:32 +0900</pubDate>
       <sparkle:version>1.0.1</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/gtpgg1013/codemon/releases/download/v1.0.1/Codemon-1.0.1.dmg"
-        length="6079804"
+        length="6080474"
         type="application/octet-stream"
-        sparkle:edSignature="mCAwRf1bxvHPePHU0VOgZwtYdQDO+aHrh7uurIaZ42yKwkpqk7cifc1LMnZZw7ylfqeiY7es6yoylM02Q3DuCA=="
+        sparkle:edSignature="4/Hnke03EkF483uCEQyx5OvfcNwh7Hs7nOAZ5CTs88tkDUz+wHOGLhpxjckQq3rdemlnFM0t8aLfeXsyvCyMCA=="
       />
     </item>
   </channel>
