@@ -38,6 +38,7 @@
 | 도구 | 상태 |
 |------|------|
 | Claude Code (CLI) | ✅ |
+| Codex | ✅ |
 | Cursor | ✅ |
 | VS Code + Claude Extension | ✅ |
 
